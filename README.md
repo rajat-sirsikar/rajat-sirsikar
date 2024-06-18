@@ -1,7 +1,7 @@
 - 👋 Hi, I am Rajat Abhay Sirsikar
 - 👀 I’m interested in Civil Engineering with a specialization in Structural Engineering
 - 🌱 I’m currently learning OpenSeesPy
-- 💞️ I’m looking to collaborate on Cold-formed Steel Structures, Structural dynamics, Fire analysis or any project broadly related to Structures
+- 💞️ I’m looking to collaborate on railway infrastructure
 - 📫 Contact me through mail on rajatsirsikar5@gmail.com
 
 <!---
