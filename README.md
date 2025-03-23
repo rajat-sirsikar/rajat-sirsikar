@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="100" align="left">
-
 # Hi, I'm Rajat Abhay Sirsikar 👋 🏗️ 
 
 ### 🚄 Computational Dynamics | Train-Track-Bridge Interaction | Structural Engineering
