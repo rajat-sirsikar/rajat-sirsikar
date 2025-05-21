@@ -1,4 +1,4 @@
-# Hi, I'm Rajat Abhay Sirsikar 👋 🏗️ 
+# Hi, I'm Rajat Abhay Sirsikar 👋 
 
 ### 🚄 Computational Dynamics | Train-Track-Bridge Interaction | Structural Engineering
 
